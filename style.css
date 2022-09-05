@@ -1,0 +1,22 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://st2.depositphotos.com/2627021/6665/i/600/depositphotos_66650665-stock-photo-romantic-and-scenic-panorama-with.jpg);
+  width: 100%;
+  height: 50vh;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://wallpaperaccess.com/full/2113857.jpg);
+  width: 100%;
+  height: 50vh;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://st2.depositphotos.com/4404267/6487/i/450/depositphotos_64872759-stock-photo-full-moon-in-night-sky.jpg);
+  width: 100%;
+  height: 50vh;
+}
